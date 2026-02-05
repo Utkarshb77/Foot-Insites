@@ -1,0 +1,65 @@
+home_team_id,away_team_id,home_team,away_team,date,time,competition_name,season,home_goals,away_goals,home_xg,away_xg,home_possession,away_possession,home_shots,away_shots,home_sot,away_sot,home_passes_completed,home_passes_attempted,away_passes_completed,away_passes_attempted,home_tackles,away_tackles,home_interceptions,away_interceptions,home_clearances,away_clearances,home_saves,away_saves,venue
+99,100,Qatar,Ecuador,,,World Cup,2022,,,0.3,1.2,47.0,53.0,,,,,,,,,10,14,2,12,18,7,1,0,Al Bayt Stadium
+101,102,England,IR Iran,,,World Cup,2022,,,2.1,1.4,77.0,23.0,,,,,,,,,13,12,7,16,4,23,1,1,Khalifa International Stadium
+103,104,Senegal,Netherlands,,,World Cup,2022,,,0.9,0.7,46.0,54.0,,,,,,,,,14,10,10,6,32,16,1,4,Al Thumama Stadium
+105,106,United States,Wales,,,World Cup,2022,,,0.8,1.5,58.0,42.0,,,,,,,,,14,18,6,8,18,31,2,0,Ahmed bin Ali Stadium
+107,108,Argentina,Saudi Arabia,,,World Cup,2022,,,2.2,0.1,69.0,31.0,,,,,,,,,17,18,9,14,11,26,0,5,Lusail Iconic Stadium
+109,110,Denmark,Tunisia,,,World Cup,2022,,,1.4,0.9,61.0,39.0,,,,,,,,,12,24,11,8,12,38,1,5,Education City Stadium
+111,112,Mexico,Poland,,,World Cup,2022,,,0.7,0.9,60.0,40.0,,,,,,,,,16,17,5,8,19,29,1,4,Stadium 974
+113,114,France,Australia,,,World Cup,2022,,,4.0,0.5,62.0,38.0,,,,,,,,,20,13,12,9,6,23,0,2,Al Janoub Stadium
+115,116,Morocco,Croatia,,,World Cup,2022,,,0.4,0.5,36.0,64.0,,,,,,,,,21,17,13,10,21,11,1,2,Al Bayt Stadium
+117,118,Germany,Japan,,,World Cup,2022,,,3.1,1.5,74.0,26.0,,,,,,,,,11,29,3,6,4,38,2,8,Khalifa International Stadium
+119,120,Spain,Costa Rica,,,World Cup,2022,,,3.5,0.0,81.0,19.0,,,,,,,,,14,21,4,14,4,18,0,1,Al Thumama Stadium
+121,122,Belgium,Canada,,,World Cup,2022,,,0.8,2.4,53.0,47.0,,,,,,,,,19,13,3,5,29,4,2,2,Ahmed bin Ali Stadium
+123,124,Switzerland,Cameroon,,,World Cup,2022,,,1.4,0.7,51.0,49.0,,,,,,,,,15,12,3,11,20,17,5,2,Al Janoub Stadium
+125,126,Uruguay,Korea Republic,,,World Cup,2022,,,0.6,0.6,56.0,44.0,,,,,,,,,16,12,10,10,20,16,0,1,Education City Stadium
+127,128,Portugal,Ghana,,,World Cup,2022,,,2.0,0.9,62.0,38.0,,,,,,,,,16,14,5,6,15,17,1,2,Stadium 974
+129,130,Brazil,Serbia,,,World Cup,2022,,,2.4,0.2,59.0,41.0,,,,,,,,,17,24,2,11,16,22,0,7,Lusail Iconic Stadium
+106,102,Wales,IR Iran,,,World Cup,2022,,,0.9,1.4,62.0,38.0,,,,,,,,,10,19,6,14,30,20,4,3,Ahmed bin Ali Stadium
+99,103,Qatar,Senegal,,,World Cup,2022,,,1.0,0.8,45.0,55.0,,,,,,,,,16,8,10,5,16,18,2,2,Al Thumama Stadium
+104,100,Netherlands,Ecuador,,,World Cup,2022,,,0.1,1.7,54.0,46.0,,,,,,,,,25,16,9,9,23,16,3,0,Khalifa International Stadium
+101,105,England,United States,,,World Cup,2022,,,0.8,0.6,55.0,45.0,,,,,,,,,9,12,9,3,21,15,1,3,Al Bayt Stadium
+110,114,Tunisia,Australia,,,World Cup,2022,,,0.9,0.6,59.0,41.0,,,,,,,,,18,19,8,11,24,38,1,4,Al Janoub Stadium
+112,108,Poland,Saudi Arabia,,,World Cup,2022,,,1.6,1.7,37.0,63.0,,,,,,,,,13,14,9,9,29,13,4,1,Education City Stadium
+113,109,France,Denmark,,,World Cup,2022,,,2.4,0.6,49.0,51.0,,,,,,,,,20,19,10,5,15,18,1,4,Stadium 974
+107,111,Argentina,Mexico,,,World Cup,2022,,,0.3,0.3,58.0,42.0,,,,,,,,,14,18,7,13,18,17,1,0,Lusail Iconic Stadium
+118,120,Japan,Costa Rica,,,World Cup,2022,,,0.9,0.1,57.0,43.0,,,,,,,,,17,25,4,9,7,20,0,3,Ahmed bin Ali Stadium
+121,115,Belgium,Morocco,,,World Cup,2022,,,1.0,1.5,67.0,33.0,,,,,,,,,15,22,7,9,5,24,2,3,Al Thumama Stadium
+116,122,Croatia,Canada,,,World Cup,2022,,,2.6,0.4,49.0,51.0,,,,,,,,,25,15,10,6,19,29,1,6,Khalifa International Stadium
+119,117,Spain,Germany,,,World Cup,2022,,,0.6,1.3,64.0,36.0,,,,,,,,,17,29,8,13,13,12,3,2,Al Bayt Stadium
+124,130,Cameroon,Serbia,,,World Cup,2022,,,2.2,1.9,41.0,59.0,,,,,,,,,8,16,19,5,22,18,2,5,Al Janoub Stadium
+126,128,Korea Republic,Ghana,,,World Cup,2022,,,1.8,1.6,63.0,37.0,,,,,,,,,15,17,2,6,19,50,0,4,Education City Stadium
+129,123,Brazil,Switzerland,,,World Cup,2022,,,1.0,0.3,54.0,46.0,,,,,,,,,21,18,10,4,9,26,0,4,Stadium 974
+127,125,Portugal,Uruguay,,,World Cup,2022,,,1.3,1.3,59.0,41.0,,,,,,,,,10,12,7,12,17,12,3,1,Lusail Iconic Stadium
+100,103,Ecuador,Senegal,,,World Cup,2022,,,0.9,2.1,61.0,39.0,,,,,,,,,15,10,7,10,19,29,1,3,Khalifa International Stadium
+104,99,Netherlands,Qatar,,,World Cup,2022,,,1.6,0.1,63.0,37.0,,,,,,,,,16,9,10,12,11,9,3,2,Al Bayt Stadium
+106,101,Wales,England,,,World Cup,2022,,,0.3,2.4,36.0,64.0,,,,,,,,,12,6,7,5,17,7,4,1,Ahmed bin Ali Stadium
+102,105,IR Iran,United States,,,World Cup,2022,,,0.4,1.2,49.0,51.0,,,,,,,,,22,12,12,5,18,21,4,0,Al Thumama Stadium
+114,109,Australia,Denmark,,,World Cup,2022,,,0.6,0.6,32.0,68.0,,,,,,,,,15,11,12,7,33,19,3,3,Al Janoub Stadium
+110,113,Tunisia,France,,,World Cup,2022,,,0.5,0.8,35.0,65.0,,,,,,,,,22,37,9,13,23,21,3,2,Education City Stadium
+108,111,Saudi Arabia,Mexico,,,World Cup,2022,,,1.1,2.3,40.0,60.0,,,,,,,,,15,16,8,7,28,12,8,1,Lusail Iconic Stadium
+112,107,Poland,Argentina,,,World Cup,2022,,,0.3,3.5,27.0,73.0,,,,,,,,,17,13,7,5,29,9,8,0,Stadium 974
+122,115,Canada,Morocco,,,World Cup,2022,,,1.4,0.5,58.0,42.0,,,,,,,,,13,23,7,12,8,22,0,0,Al Thumama Stadium
+116,121,Croatia,Belgium,,,World Cup,2022,,,0.7,3.0,49.0,51.0,,,,,,,,,9,14,6,7,24,25,3,4,Ahmed bin Ali Stadium
+118,119,Japan,Spain,,,World Cup,2022,,,1.4,1.0,18.0,82.0,,,,,,,,,11,11,17,3,26,5,4,1,Khalifa International Stadium
+120,117,Costa Rica,Germany,,,World Cup,2022,,,1.3,5.7,32.0,68.0,,,,,,,,,21,10,8,5,45,8,7,4,Al Bayt Stadium
+128,125,Ghana,Uruguay,,,World Cup,2022,,,1.6,1.8,51.0,49.0,,,,,,,,,23,23,7,10,17,22,4,3,Al Janoub Stadium
+126,127,Korea Republic,Portugal,,,World Cup,2022,,,1.7,1.3,39.0,61.0,,,,,,,,,11,12,8,6,20,12,5,4,Education City Stadium
+130,123,Serbia,Switzerland,,,World Cup,2022,,,1.3,2.7,54.0,46.0,,,,,,,,,13,10,6,12,9,18,4,2,Stadium 974
+124,129,Cameroon,Brazil,,,World Cup,2022,,,0.5,2.5,35.0,65.0,,,,,,,,,22,19,10,3,32,12,7,2,Lusail Iconic Stadium
+104,105,Netherlands,United States,,,World Cup,2022,,,1.7,1.5,42.0,58.0,,,,,,,,,22,14,12,11,30,12,5,3,Khalifa International Stadium
+107,114,Argentina,Australia,,,World Cup,2022,,,1.6,0.6,60.0,40.0,,,,,,,,,15,11,7,8,20,10,1,3,Ahmed bin Ali Stadium
+113,112,France,Poland,,,World Cup,2022,,,1.4,1.7,55.0,45.0,,,,,,,,,11,17,9,6,10,23,1,5,Al Thumama Stadium
+101,103,England,Senegal,,,World Cup,2022,,,1.0,0.8,61.0,39.0,,,,,,,,,21,11,9,6,10,17,1,1,Al Bayt Stadium
+118,116,Japan,Croatia,,,World Cup,2022,,,1.2,1.4,42.0,58.0,,,,,,,,,13,14,7,5,30,32,3,3,Al Janoub Stadium
+129,126,Brazil,Korea Republic,,,World Cup,2022,,,3.6,0.5,53.0,47.0,,,,,,,,,15,21,12,11,10,11,5,5,Stadium 974
+115,119,Morocco,Spain,,,World Cup,2022,,,0.7,1.0,24.0,76.0,,,,,,,,,26,11,8,4,41,15,1,2,Education City Stadium
+127,123,Portugal,Switzerland,,,World Cup,2022,,,2.3,1.2,47.0,53.0,,,,,,,,,16,5,8,5,11,14,1,3,Lusail Iconic Stadium
+116,129,Croatia,Brazil,,,World Cup,2022,,,0.6,2.5,50.0,50.0,,,,,,,,,28,16,9,13,32,16,10,0,Education City Stadium
+104,107,Netherlands,Argentina,,,World Cup,2022,,,0.6,1.9,52.0,48.0,,,,,,,,,18,19,15,6,17,20,3,0,Lusail Iconic Stadium
+115,127,Morocco,Portugal,,,World Cup,2022,,,1.4,0.9,27.0,73.0,,,,,,,,,12,12,9,9,36,3,3,2,Al Thumama Stadium
+101,113,England,France,,,World Cup,2022,,,2.4,0.9,57.0,43.0,,,,,,,,,16,10,8,5,13,16,3,6,Al Bayt Stadium
+107,116,Argentina,Croatia,,,World Cup,2022,,,2.3,0.5,40.0,60.0,,,,,,,,,22,19,8,5,22,6,2,4,Lusail Iconic Stadium
+113,115,France,Morocco,,,World Cup,2022,,,1.9,0.9,39.0,61.0,,,,,,,,,22,15,19,8,16,3,2,0,Al Bayt Stadium
+116,115,Croatia,Morocco,,,World Cup,2022,,,0.7,1.2,50.0,50.0,,,,,,,,,20,10,8,10,19,16,1,2,Khalifa International Stadium
+107,113,Argentina,France,,,World Cup,2022,,,3.3,2.2,54.0,46.0,,,,,,,,,23,26,10,10,24,18,2,7,Lusail Iconic Stadium

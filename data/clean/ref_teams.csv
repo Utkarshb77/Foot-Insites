@@ -1,0 +1,131 @@
+team_id,team_name,competition_type,country,primary_competition
+1,Werder Bremen,league,,Bundesliga
+2,Bayern Munich,league,,Bundesliga
+3,Augsburg,league,,Bundesliga
+4,M'gladbach,league,,Bundesliga
+5,Hoffenheim,league,,Bundesliga
+6,Freiburg,league,,Bundesliga
+7,Leverkusen,league,,Bundesliga
+8,RB Leipzig,league,,Bundesliga
+9,Stuttgart,league,,Bundesliga
+10,Bochum,league,,Bundesliga
+11,Wolfsburg,league,,Bundesliga
+12,Heidenheim,league,,Bundesliga
+13,Dortmund,league,,Bundesliga
+14,FC Koln,league,,Bundesliga
+15,Union Berlin,league,,Bundesliga
+16,Mainz,league,,Bundesliga
+17,Ein Frankfurt,league,,Bundesliga
+18,Darmstadt,league,,Bundesliga
+19,Crystal Palace,league,,Premier League
+20,Arsenal,league,,Premier League
+21,Fulham,league,,Premier League
+22,Liverpool,league,,Premier League
+23,Bournemouth,league,,Premier League
+24,Aston Villa,league,,Premier League
+25,Leeds,league,,Premier League
+26,Wolves,league,,Premier League
+27,Newcastle,league,,Premier League
+28,Nott'm Forest,league,,Premier League
+29,Tottenham,league,,Premier League
+30,Southampton,league,,Premier League
+31,Everton,league,,Premier League
+32,Chelsea,league,,Premier League
+33,Leicester,league,,Premier League
+34,Brentford,league,,Premier League
+35,Man United,league,,Premier League
+36,Brighton,league,,Premier League
+37,West Ham,league,,Premier League
+38,Man City,league,,Premier League
+39,Lyon,league,,Ligue 1
+40,Ajaccio,league,,Ligue 1
+41,Strasbourg,league,,Ligue 1
+42,Monaco,league,,Ligue 1
+43,Clermont,league,,Ligue 1
+44,Paris SG,league,,Ligue 1
+45,Toulouse,league,,Ligue 1
+46,Nice,league,,Ligue 1
+47,Angers,league,,Ligue 1
+48,Nantes,league,,Ligue 1
+49,Lens,league,,Ligue 1
+50,Brest,league,,Ligue 1
+51,Lille,league,,Ligue 1
+52,Auxerre,league,,Ligue 1
+53,Montpellier,league,,Ligue 1
+54,Troyes,league,,Ligue 1
+55,Rennes,league,,Ligue 1
+56,Lorient,league,,Ligue 1
+57,Marseille,league,,Ligue 1
+58,Reims,league,,Ligue 1
+59,Milan,league,,Serie A
+60,Udinese,league,,Serie A
+61,Sampdoria,league,,Serie A
+62,Atalanta,league,,Serie A
+63,Lecce,league,,Serie A
+64,Inter,league,,Serie A
+65,Monza,league,,Serie A
+66,Torino,league,,Serie A
+67,Fiorentina,league,,Serie A
+68,Cremonese,league,,Serie A
+69,Lazio,league,,Serie A
+70,Bologna,league,,Serie A
+71,Salernitana,league,,Serie A
+72,Roma,league,,Serie A
+73,Spezia,league,,Serie A
+74,Empoli,league,,Serie A
+75,Verona,league,,Serie A
+76,Napoli,league,,Serie A
+77,Juventus,league,,Serie A
+78,Sassuolo,league,,Serie A
+79,Osasuna,league,,La Liga
+80,Sevilla,league,,La Liga
+81,Celta,league,,La Liga
+82,Espanol,league,,La Liga
+83,Valladolid,league,,La Liga
+84,Villarreal,league,,La Liga
+85,Barcelona,league,,La Liga
+86,Vallecano,league,,La Liga
+87,Cadiz,league,,La Liga
+88,Sociedad,league,,La Liga
+89,Valencia,league,,La Liga
+90,Girona,league,,La Liga
+91,Almeria,league,,La Liga
+92,Real Madrid,league,,La Liga
+93,Ath Bilbao,league,,La Liga
+94,Mallorca,league,,La Liga
+95,Getafe,league,,La Liga
+96,Ath Madrid,league,,La Liga
+97,Betis,league,,La Liga
+98,Elche,league,,La Liga
+99,Qatar,international,Qatar,World Cup
+100,Ecuador,international,Ecuador,World Cup
+101,England,international,England,World Cup
+102,IR Iran,international,IR Iran,World Cup
+103,Senegal,international,Senegal,World Cup
+104,Netherlands,international,Netherlands,World Cup
+105,United States,international,United States,World Cup
+106,Wales,international,Wales,World Cup
+107,Argentina,international,Argentina,World Cup
+108,Saudi Arabia,international,Saudi Arabia,World Cup
+109,Denmark,international,Denmark,World Cup
+110,Tunisia,international,Tunisia,World Cup
+111,Mexico,international,Mexico,World Cup
+112,Poland,international,Poland,World Cup
+113,France,international,France,World Cup
+114,Australia,international,Australia,World Cup
+115,Morocco,international,Morocco,World Cup
+116,Croatia,international,Croatia,World Cup
+117,Germany,international,Germany,World Cup
+118,Japan,international,Japan,World Cup
+119,Spain,international,Spain,World Cup
+120,Costa Rica,international,Costa Rica,World Cup
+121,Belgium,international,Belgium,World Cup
+122,Canada,international,Canada,World Cup
+123,Switzerland,international,Switzerland,World Cup
+124,Cameroon,international,Cameroon,World Cup
+125,Uruguay,international,Uruguay,World Cup
+126,Korea Republic,international,Korea Republic,World Cup
+127,Portugal,international,Portugal,World Cup
+128,Ghana,international,Ghana,World Cup
+129,Brazil,international,Brazil,World Cup
+130,Serbia,international,Serbia,World Cup
